@@ -1,0 +1,241 @@
+    1  pwd
+    2  is
+    3  ls
+    4  pw
+    5  pwd
+    6  ls
+    7  ls-a
+    8  bash
+    9  pwd
+   10  ls
+   11  ls -a
+   12  ls -l
+   13  mkdir cc
+   14  cd cc
+   15  cd ~
+   16  pwd
+   17  cd
+   18  mkdir /home/harpr
+   19  mkdir /home/harpr/week01
+   20  mkdir /home/harpr/week02
+   21  touch README.md
+   22  rm README.md
+   23  touch /home/harpr/cc/README.md
+   24  cd cc
+   25  ls
+   26  cd ~
+   27  touch /home/harpr/cc/week02/notes.md
+   28  nano
+   29  ifconfig
+   30  ipconfig
+   31  ip
+   32  sudo aptget
+   33  sudo apt-get
+   34  apt
+   35  clear
+   36  python
+   37  python3
+   38  quit
+   39  clear
+   40  pwd
+   41  ls
+   42  ls -a
+   43  clear
+   44  pwd
+   45  ls
+   46  ls -a
+   47  ls -l
+   48  rm -rf cd
+   49  rm rf cc
+   50  mkdir coding-cafe
+   51  cd coding-cafe
+   52  mkdir week012
+   53  rm week012
+   54  mkdir week01
+   55  mkdir week02
+   56  touch README.md
+   57  cd week02
+   58  touch notes.md
+   59  cd
+   60  ls coding-cafe/week02
+   61  cd /mnt/c/WINDOWS/system32/coding-cafe
+   62  ls week02
+   63  cp README.md README-backup.md
+   64  mv README-backup.md week01/
+   65  cd week01
+   66  mv README-backup.md old-readme.md 
+   67  ls
+   68  rm old-readme.md
+   69  ls
+   70  echo $PATH
+   71  which python3
+   72  which pip
+   73  which ls
+   74  pyton3
+   75  cd ~/coding-cafe
+   76  cd
+   77  cd ~/coding-cafe
+   78  cd /mnt/c/WINDOWS/system32/coding-cafe
+   79  python3 -m venv .venv
+   80  exit
+   81  sudo apt update  && sudo apt install python3 python3-pip python3.14-venv
+   82  python3 --version
+   83  pip3 --version
+   84  python3 -m venv --help
+   85  sudo update
+   86  exit
+   87  sudo apt update
+   88  exit
+   89  pwd
+   90  ls
+   91  ls -a
+   92  ls -l
+   93  cd codingcafe
+   94  cd coding-cafe
+   95  cd week02
+   96  ls
+   97  cd
+   98  cd mnt/c/WINDOWS/system32/coding-cafe
+   99  /mnt/c/WINDOWS?system32/coding-cafe
+  100  cd /mnt/c/WINDOWS/system32/coding-cafe
+  101  cp README.md README-backup.md
+  102  mv README-backup.md week01/
+  103  cd week01
+  104  mv README-backup.md old-readme.md
+  105  ls
+  106  rm old-readme.md
+  107  ls
+  108  echo $PATH
+  109  which python3
+  110  which pip
+  111  which ls
+  112  harpr@halloo:/mnt/c/WINDOWS/system32$ cd codingcafe
+  113  -bash: cd: codingcafe: No such file or directory
+  114  harpr@halloo:/mnt/c/WINDOWS/system32$ cd coding-cafe
+  115  harpr@halloo:/mnt/c/WINDOWS/system32/coding-cafe$ cd week02
+  116  harpr@halloo:/mnt/c/WINDOWS/system32/coding-cafe/week02$ ls
+  117  notes.md
+  118  harpr@halloo:/mnt/c/WINDOWS/system32/coding-cafe/week02$ cd
+  119  harpr@halloo:~$ cd mnt/c/WINDOWS/system32/coding-cafe
+  120  -bash: cd: mnt/c/WINDOWS/system32/coding-cafe: No such file or directory
+  121  harpr@halloo:~$ /mnt/c/WINDOWS?system32/coding-cafe
+  122  -bash: /mnt/c/WINDOWS?system32/coding-cafe: No such file or directory
+  123  harpr@halloo:~$pyton3
+  124  ls
+  125  cd ~/coding-cafe
+  126  python3 -m venv .venv
+  127  ls
+  128  ls -a
+  129  source .venv/bin/activate
+  130  which python3
+  131  pip list
+  132  pip install requests 
+  133  pip list
+  134  pip install requests 
+  135  pip list
+  136  deactivate 
+  137  which python3
+  138  man ls 
+  139  man man
+  140  history
+  141  python3
+  142  cd 
+  143  pwd
+  144  touch /home/harpr/coding-cafe/week02/notes.md
+  145  cd /mnt/c/WINDOWS/system32/coding-cafe
+  146  touch notes.md
+  147  rm notes.md
+  148  cd week02
+  149  history > week02/lab01-log.txt
+  150  cd -
+  151  history > week02/lab01-log.txt
+  152  pwd
+  153  pwd
+  154  wsl
+  155  ls
+  156  pwd
+  157  mkdir cc
+  158  ls
+  159  cd
+  160  cd ~
+  161  ls
+  162  ~ls - a 
+  163  ls-a
+  164  ls -a
+  165  ls -l
+  166  cd cc
+  167  mkdir week1
+  168  mkdir week2
+  169  touch README.md
+  170  cd week2
+  171  touch notes.md
+  172  cd
+  173  cd ~
+  174  ls coding-cafe/week2
+  175  ls cc/week2
+  176  ls
+  177  nano cc/notes.md
+  178  nano cc/week2/notes.md
+  179  ls
+  180  cd ..
+  181  ls
+  182  cd Downloads/
+  183  ./learningidk.
+  184  ./learningidk.c
+  185  gcc learningidk.c -o learningidk.exe
+  186  sudo apt install gcc
+  187  exit
+  188  which git
+  189  gir--version
+  190  which gh
+  191  gh--version
+  192  sudo apt install git
+  193  brew install git 
+  194  which git
+  195  sudo apt install gh
+  196  brew install gh
+  197  gh--version
+  198  sudo apt install
+  199  sudo apt install git
+  200  sudo apt install gh 
+  201  git -- version
+  202  which gh
+  203  gh -- version
+  204  git --version
+  205  gh -- version
+  206  cd Documents
+  207  cd coding-cafe
+  208  git config --global --list
+  209  git init
+  210  ls -a
+  211  git status
+  212  git add 
+  213  git commit -m "Lab work so far"
+  214  git add .
+  215  git status
+  216  git commit -m "Lab work so far"
+  217  git log
+  218  git log --oneline 
+  219  git status
+  220  git add labs4/
+  221  git add .
+  222  git commit -m "Add lab 4 notes"
+  223  git log --online
+  224  git log --oneline
+  225  git add README.md 
+  226  git commit -m "Write README
+
+"
+  227  git commit -m "Write README"
+  228  gh auth login
+  229  git remote add origin https://github.com/ambreenkaur08 /coding-cafe.git
+  230  git remote 
+  231  git push
+  232  git push -u origin main
+  233  git remote
+  234  git status
+  235  git remote add origin https://github.com/ambreenkaur08/coding-cafe.git
+  236  git push -u origin main
+  237  git branch -M main
+  238  git push -u origin main
+  239  history >> abc.txt
